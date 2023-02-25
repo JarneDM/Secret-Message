@@ -5,7 +5,7 @@
 ![example](https://user-images.githubusercontent.com/99100535/221380207-6837c4b3-7599-406a-a7cb-fc75864ea48e.png)
 
 - At **1** it asks the message we wants to encode in example it is "coding is fun"
-- At **2** it asks us what the key value it should be  
+- At **2** it asks us what the secret key value it should be  
   - As example we said 13 so it adds the key value to each character in the message. <br/> 
     For example **s** becomes **f** because **f** is 13 letters further in the alphabet then **s**. <br/>
     *(If the number goes oever 26 it wraps around the alphabet)*
