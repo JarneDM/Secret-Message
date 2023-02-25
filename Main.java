@@ -32,6 +32,7 @@ public class Main {
                     output += input;
                 }
             }
+            System.out.println("Encoded Message: ");
             System.out.println(output);
 
             // prompt the user to continue or exit
@@ -44,4 +45,3 @@ public class Main {
         scan.close();
     }
 }
-
