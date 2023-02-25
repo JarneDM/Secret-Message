@@ -1,4 +1,4 @@
-# Secret-Message
+# Secret Message
  > This program encodes and decodes your messages! But how does it work?
 
 # How does it work?
